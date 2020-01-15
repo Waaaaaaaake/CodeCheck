@@ -9,6 +9,8 @@
 /* Begin PBXBuildFile section */
 		809C104623CE75B70006E019 /* Background (1).png in Resources */ = {isa = PBXBuildFile; fileRef = 809C104523CE75B70006E019 /* Background (1).png */; };
 		809C104823CE78310006E019 /* Vector.png in Resources */ = {isa = PBXBuildFile; fileRef = 809C104723CE78310006E019 /* Vector.png */; };
+		809C104A23CFB7720006E019 /* Ellipse 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 809C104923CFB7720006E019 /* Ellipse 1.png */; };
+		809C104C23CFC0520006E019 /* Vector (1).png in Resources */ = {isa = PBXBuildFile; fileRef = 809C104B23CFC0510006E019 /* Vector (1).png */; };
 		80BC64CF23CE4C8A00285CA6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80BC64CE23CE4C8A00285CA6 /* AppDelegate.swift */; };
 		80BC64D123CE4C8A00285CA6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80BC64D023CE4C8A00285CA6 /* ViewController.swift */; };
 		80BC64D423CE4C8A00285CA6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 80BC64D223CE4C8A00285CA6 /* Main.storyboard */; };
@@ -38,6 +40,8 @@
 /* Begin PBXFileReference section */
 		809C104523CE75B70006E019 /* Background (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Background (1).png"; path = "../../Background (1).png"; sourceTree = "<group>"; };
 		809C104723CE78310006E019 /* Vector.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Vector.png; sourceTree = "<group>"; };
+		809C104923CFB7720006E019 /* Ellipse 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Ellipse 1.png"; path = "Weather2/Ellipse 1.png"; sourceTree = "<group>"; };
+		809C104B23CFC0510006E019 /* Vector (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Vector (1).png"; sourceTree = "<group>"; };
 		80BC64CB23CE4C8A00285CA6 /* Weather2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Weather2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		80BC64CE23CE4C8A00285CA6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		80BC64D023CE4C8A00285CA6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -82,7 +86,9 @@
 			isa = PBXGroup;
 			children = (
 				809C104523CE75B70006E019 /* Background (1).png */,
+				809C104B23CFC0510006E019 /* Vector (1).png */,
 				809C104723CE78310006E019 /* Vector.png */,
+				809C104923CFB7720006E019 /* Ellipse 1.png */,
 				80BC64CD23CE4C8A00285CA6 /* Weather2 */,
 				80BC64E523CE4C8A00285CA6 /* Weather2Tests */,
 				80BC64F023CE4C8A00285CA6 /* Weather2UITests */,
@@ -235,7 +241,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				809C104A23CFB7720006E019 /* Ellipse 1.png in Resources */,
 				809C104823CE78310006E019 /* Vector.png in Resources */,
+				809C104C23CFC0520006E019 /* Vector (1).png in Resources */,
 				809C104623CE75B70006E019 /* Background (1).png in Resources */,
 				80BC64D923CE4C8A00285CA6 /* Assets.xcassets in Resources */,
 				80BC64D423CE4C8A00285CA6 /* Main.storyboard in Resources */,
